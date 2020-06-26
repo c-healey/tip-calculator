@@ -14,9 +14,9 @@ git clone https://github.com/c-healey/tip-calculator.git
 
 ## Usage example
 
-Enter the amount of your bill, adjust the tip percent to see the  total amount due. 
-If dining with friends and you want to split the bill, slide the 'Split' slider your parties number. 
-each share of the bill and tip is calculated and shown.
+- Enter the amount of your bill, adjust the tip percent to see the  total amount due. 
+- If dining with friends and you want to split the bill, slide the 'Split' slider to your parties number. 
+Each share of the bill and tip is calculated and shown.
 
 ## Development setup
 
