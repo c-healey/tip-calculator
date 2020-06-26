@@ -2,14 +2,14 @@
 
 > A simple vanilla javascript tip caluculator styled with bootstrap.
 
-This is a class exercise in learning javascript.  An afternoon's entertainment.
+Based on an exercise in learning javascript.  An afternoon's entertainment.
 
 ![](tip-calc.png)
 
 ## Installation
 
 ```sh
-git clone <repo>
+git clone https://github.com/c-healey/tip-calculator.git
 ```
 
 ## Usage example
@@ -20,10 +20,8 @@ each share of the bill and tip is calculated and shown.
 
 ## Development setup
 
-Noth much is needed to run or modify as everything runs in the browser. 
+Not much is needed to run or modify as everything runs in the browser. 
 A connection is needed to pull in the Bootstrap style sheet.
-
-- Bootstrap documentation: https://getbootstrap.
 
 
 ## Release History
@@ -37,4 +35,4 @@ Catherine Healey – [@cfhealey](https://twitter.com/cfhealey) – cathy.healey@
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[Visit Tip Calculator](https://c-healey.github.io/tip-calculator/)
+[Visit Tip Calculator](https://c-healey.github.io/tip-calculator/index.html)
